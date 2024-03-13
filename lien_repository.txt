@@ -1,0 +1,22 @@
+############################################################################################
+
+Un lien vers le repository du projet ACCESSIBLE, 
+pour qu’on puisse le cloner et le tester (pensez à vérifier l’accessibilité de votre projet !)
+
+--> Cette consigne a été comprise comme ceci : le lien correspond au dépôt gitlab du projet 
+où le professeur chargé de td doit avoir été invité en tant que développeur
+
+############################################################################################
+
+Voici donc le lien gitlab-etu : https://gitlab-etu.fil.univ-lille1.fr/viseux/tac_viseux
+
+############################################################################################
+
+Attention : il faut être connecté soit à l'université soit en VPN pour avoir accès au gitlab-etu
+
+Si vous constatez que cette consigne a été mal comprise et que vous me permettez de rectifier 
+mon dépôt en conséquence, vous pourrez m'envoyer un mail à l'adresse suivante : 
+
+antoine.nollet.etu@univ-lille.fr
+
+############################################################################################
